@@ -13,7 +13,7 @@ cat /dev/urandom | tr -dc A-Za-z0-9 | head -c 32
 
 ## string length
 ```shell
-$ $ echo "98fda3f8d7c9c981c09d21305be6d9bd" | wc -L
+$ echo "98fda3f8d7c9c981c09d21305be6d9bd" | wc -L
 ```
 
 ## VIM
