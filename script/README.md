@@ -65,6 +65,8 @@ set -eo pipefail
   - TL,DR: Too Long，Didn‘t Read（太长懒得看，也有很多文档在简略描述中会写这个）
   - CC: Carbon Copy （抄送）
   - FYI: For You Informations（仅供参考，一般用于和你关系不大，但是需要了解，看看就好）
+  - F2F：Face to Face （面对面）
+  - BU：Business Unit（业务单位/事业群）
 - abbreviation
   - BTW: By The Way（顺便说一下）
   - QA：Quality Assurance（质量保证）
@@ -118,4 +120,6 @@ set -eo pipefail
   - drive                            驱动
   - device                        设备
   - foreword                    前言
-
+  - domain        领域
+- easy words
+  - overtime 加班
