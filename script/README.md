@@ -64,5 +64,57 @@ set -eo pipefail
   - TBR: To Be Reviewed（提示维护者进行review）
   - TL,DR: Too Long，Didn‘t Read（太长懒得看，也有很多文档在简略描述中会写这个）
   - CC: Carbon Copy （抄送）
-
+- abbreviation
+  - BTW: By The Way（顺便说一下）
+  - QA：Quality Assurance（质量保证）
+- Must know words
+  - Stand up meeting：非正式短会
+  - stream         溪流
+  - upstream     上游
+  - Certificate    证书
+  - privileged    特权
+  - Introduction    介绍
+  - Overview    概述
+  - extension    扩展
+  - predefined    预定义的
+  - Launch        发射，发动
+  - Community        社区
+  - Submitting patches        提交补丁
+  - License        执照，许可
+  - Related resources        相关资源
+  - Technical Overview        技术概述
+  - Updating Dependencies        更新依赖
+  - upgrade            升级
+  - generated        生成
+  - Requirements        要求
+  - Demo    演示
+  - daemon        守护进程
+  - Support        支持
+  - Production-Grade Container Scheduling and Management        生产级别的容器调度和管理
+  - To start using K8s        开始使用k8s
+  - To start developing K8s    开始开发k8s
+  - Roadmap        路线图
+  - repo        回购
+  - report        报告
+  - repost        转发
+  - repository        存储库
+  - Adopters        采用者
+  - designed        设计的
+  - fabric             结构
+  - details            细节
+  - backends        后端
+  - region            地区
+  - architecture            架构
+  - binary                        二进制
+  - process calls            进程调用
+  - official                    官方
+  - objective                    目标
+  - ksy results                关键结果
+  - plugin                        插件
+  - ingress                        入口
+  - egress                        出口
+  - Whitelist                    白名单
+  - drive                            驱动
+  - device                        设备
+  - foreword                    前言
 
