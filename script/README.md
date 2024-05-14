@@ -64,6 +64,7 @@ set -eo pipefail
   - TBR: To Be Reviewed（提示维护者进行review）
   - TL,DR: Too Long，Didn‘t Read（太长懒得看，也有很多文档在简略描述中会写这个）
   - CC: Carbon Copy （抄送）
+  - FYI: For You Informations（仅供参考，一般用于和你关系不大，但是需要了解，看看就好）
 - abbreviation
   - BTW: By The Way（顺便说一下）
   - QA：Quality Assurance（质量保证）
