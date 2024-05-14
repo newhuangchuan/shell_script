@@ -121,5 +121,6 @@ set -eo pipefail
   - device                        设备
   - foreword                    前言
   - domain        领域
+  - exceeded      超过
 - easy words
   - overtime 加班
