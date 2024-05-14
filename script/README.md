@@ -57,5 +57,12 @@ set -eo pipefail
   - set -v：等同于set -o verbose，表示打印 Shell 接收到的每一行输入。
   - set -o noclobber：防止使用重定向运算符>覆盖已经存在的文件。
   - 上面的-f和-v参数，可以分别使用set +f、set +v关闭。
+- mysterious abbreviation
+  - LGTM: Look Good To Me（我知道了，代码review过，可以合并）
+  - SGTM: Sounds Good To Me （和LGTM一样，也是通过reveiw，可以合并）
+  - PTAL: Please Take A Look（你来瞅瞅，用来提示别人来看一下）
+  - TBR: To Be Reviewed（提示维护者进行review）
+  - TL,DR: Too Long，Didn‘t Read（太长懒得看，也有很多文档在简略描述中会写这个）
+  - CC: Carbon Copy （抄送）
 
 
