@@ -71,6 +71,7 @@ set -eo pipefail
   - BTW: By The Way（顺便说一下）
   - QA：Quality Assurance（质量保证）
 - Must know words
+  - on leave 休假
   - Stand up meeting：非正式短会
   - stream         溪流
   - upstream     上游
