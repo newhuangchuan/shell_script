@@ -125,3 +125,11 @@ set -eo pipefail
   - exceeded      超过
 - easy words
   - overtime 加班
+  - focus  集中，专注
+  - mean 意思是（I mean 我意思是）
+  - single 单个
+  - tunnel 隧道
+  - submit 提交
+  - ticket 票，工单
+  - console 名词讲：控制台，操纵台，仪表板
+  - Relational 关系型（Relational Database Service）
