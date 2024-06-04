@@ -1,3 +1,17 @@
+# Linux
+## storage volume
+> 在Linux操作系统中， ext2、ext3 和 ext4 文件系统会默认为超级用户（通常为root）保留一小部分磁盘空间，这样即使磁盘在普通用户看来已满，超级用户仍能进行文件写入和系统操作。默认情况下，保留的容量为文件系统总容量的5%。
+
+- 这项配置有助于避免因为磁盘完全填满而造成系统操作受阻，尤其是对于 / 根分区。但对于大容量的存储，保留5%可能显得过多。如果你决定修改保留的容量百分比，可以使用 tune2fs 工具进行修改。请注意，对文件系统进行修改前，应该确保备份重要数据。
+- 修改磁盘保留空间的命令 (<percentage> 替换为你希望为root保留的百分比)
+```shell
+$ sudo tune2fs -m <percentage> /dev/<partition>
+```
+- 如果你想把一块名为 /dev/sda1 的分区的保留空间减少到1%
+```shell
+$ sudo tune2fs -m 1 /dev/sda1
+```
+
 # "set" Command && “shopt” Command
 
 ## set -u
