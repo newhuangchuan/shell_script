@@ -85,6 +85,9 @@ set -eo pipefail
   - BTW: By The Way（顺便说一下）
   - QA：Quality Assurance（质量保证）
 - Must know words
+  - including agreement price   包括协议价格
+  - agreement hotel    协议酒店
+  - company    公司
   - root reason 根本原因
   - on leave 休假
   - Stand up meeting：非正式短会
@@ -138,6 +141,9 @@ set -eo pipefail
   - foreword                    前言
   - domain        领域
   - exceeded      超过
+  - Applicant     申请人
+  - Department    部门
+  - 
 - easy words
   - overtime 加班
   - focus  集中，专注
