@@ -145,6 +145,7 @@ set -eo pipefail
   - Department    部门
   - 
 - easy words
+  - brainstorm 头脑风暴
   - overtime 加班
   - focus  集中，专注
   - mean 意思是（I mean 我意思是）
