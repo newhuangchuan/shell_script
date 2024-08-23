@@ -155,3 +155,11 @@ set -eo pipefail
   - ticket 票，工单
   - console 名词讲：控制台，操纵台，仪表板
   - Relational 关系型（Relational Database Service）
+ 
+#### daily words
+  - Duration	时长
+  - reconcile	调解
+  - mandarin	普通话
+  - simplified	简体
+  - traditional	繁体
+
